@@ -1,11 +1,13 @@
 # :sparkles: 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝘼𝙡𝙢𝙖𝙨 :sparkles:
 <p> 
 	<b>
-	I prefer to go by Mars, though.
-	<br>Currently, I am a student at 42 Kuala Lumpur. I am working on expanding my tech skillset, improving my programming skills, and learning new tools and languages as I make my way into the tech world.
-	<br>My main objective for the future is to enter the Cybersecurity field. I'm particularly interested in Red-Teaming, Penetration Testing, and Malware Analysis, and topics of these sorts. I'm fascinated by the world of cyber threats, as well as their defense measures.
+	<ul>
+	<li>I prefer to go by Mars, though.</li>
+	<li>Currently, I am a student at 42 Kuala Lumpur. I am working on expanding my tech skillset, improving my programming skills, and learning new tools and languages as I make my way into the tech world.</li>
+	<li>My main objective for the future is to enter the Cybersecurity field. I'm particularly interested in Red-Teaming, Penetration Testing, and Malware Analysis, and topics of these sorts. I'm fascinated by the world of cyber threats, as well as their defense measures.</li>
 	<sub><s>TLDR; I want to work on dangerous stuff legally.</s></sub>
-	<br> When I'm not coding, I like to spend my time reading, crocheting, or gaming.
+	<li> When I'm not coding, I like to spend my time reading, crocheting, or gaming.</li>
+	</ul>
 	</b>
 </p>
 
