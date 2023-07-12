@@ -17,5 +17,5 @@
 
 <p align="center">
 	<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=M4rrs&theme=neon" alt="Mars' Github Stats"/>
-	<img align="center" width="400" height="350" src="https://streak-stats.demolab.com/?user=M4rrs&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=neon" alt="Mars' Contribution Stats"/>
+	<img align="center" width="400" src="https://streak-stats.demolab.com/?user=M4rrs&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=neon" alt="Mars' Contribution Stats"/>
 </p>
