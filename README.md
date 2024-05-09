@@ -1,11 +1,11 @@
-# :sparkles: 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝘼𝙡𝙢𝙖𝙨 :sparkles:
+# :sparkles: Hi there, I'm Almas :sparkles:
 <p> 
 	<b>
 	<ul>
 	<li>I prefer to go by Mars, though.</li>
 	<li>Currently, I am a student at 42 Kuala Lumpur. I am working on expanding my tech skillset, improving my programming skills, and learning new tools and languages as I make my way into the tech world.</li>
-	<li>My main objective for the future is to enter the Cybersecurity field. I'm particularly interested in Red-Teaming, Penetration Testing, and Malware Analysis, and topics of these sorts. I'm fascinated by the world of cyber threats, as well as their defense measures.</li>
-	<li> When I'm not coding, I like to spend my time reading, crocheting, or gaming.</li>
+	<li>My main objective for the future is to enter the Cybersecurity field. I'm particularly interested in penetration testing, and red teaming. While I may not have extensive knowledge in the field, I am slowly making my way there by partaking in online courses with my subject of interest.</li>
+	<li> When I'm not coding, I like to spend my time reading, listening to music, crocheting, or gaming.</li>
 	</ul>
 	</b>
 </p>
@@ -17,10 +17,15 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
+<p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="css3" width="40" height="40"/> </a>
+</p>
+<p>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+</p>
 
 ### My Statistics:
 <p align="center">
