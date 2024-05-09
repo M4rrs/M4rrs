@@ -1,4 +1,4 @@
-# :sparkles: Hi there, I'm Almas :sparkles:
+# :sparkles: **_Hi there, I'm Almas_** :sparkles:
 <p> 
 	<b>
 	<ul>
